@@ -1,6 +1,5 @@
 <template>
   <div id="app">
-    <h2>哈哈哈哈哈哈</h2>
      <blog-header></blog-header>
     <keep-alive><router-view></router-view></keep-alive>
   </div>
